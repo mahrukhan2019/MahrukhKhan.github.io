@@ -15,7 +15,7 @@ h1{
     padding: 0px 10px;
 }
 a{
-  color: #0099ff;
+  color: #0098ff;
     margin: 0;
 }
 p{
@@ -37,12 +37,22 @@ nav ul li a{
   color: white;
 
 }
-.column{
-  float: left;
-  width: 50%;
+table{
+  border: 1px solid #000;
+margin:0 auto;
+align: center;
+text-align:left;
+background-color: ="#0098ff";
 }
-row:after {
-  content: "";
-  display: table;
-  clear: both;
+th{
+  border: 1px solid #000;
+  text-align: center;
+  margin-top: 0px;
+}
+td{
+  border: 1px solid #000;
+    text-align: left;
+  margin-top: 0px;
+  padding: 0 auto;
+
 }
