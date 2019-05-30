@@ -5,12 +5,20 @@ body{
 color:#1a314d ;
    padding: 0;
 }
+li{
+    border: 3px solid #1a314d;
+    background-color:#f579a0 ;
+    color: white;
+    padding: 5px;
+
+}
 nav ul li{
 
   list-style-type: none;
   display: inline-block;
   margin: 0 auto;
-padding: 0px
+
+
 
 }
 header{

@@ -30,13 +30,24 @@ p{
   color: #1a314d;
 
 }
+ ul li{
+    border: 3px solid #1a314d;
+    background-color:#f579a0 ;
+    color: white;
+    padding: 5px;
+
+}
 
 nav{
   color: #1a314d;
 }
 nav ,ul, li{
   margin: 0 auto;
-  padding: 0 auto;
+
+  border: 3px solid #1a314d;
+  background-color:#f579a0 ;
+  color: white;
+  padding: 5px;
 
 
 
