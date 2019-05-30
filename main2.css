@@ -1,0 +1,56 @@
+body{
+ background-image: url("rosebackground.png");
+ font-family: arial;
+   margin: 0;
+color:#1a314d ;
+   padding: 0;
+}
+nav ul li{
+
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 auto;
+padding: 0px
+
+}
+header{
+
+    text-align: center;
+    color: #1a314d;
+
+
+}
+h1{
+  font-family:cursive;
+  font-size: 50px;
+
+}
+p{
+  font-size: 50px;
+  align:center;
+  text-align: center;
+  color: #1a314d;
+}
+
+section{
+  font-size: 20px;
+  align:left;
+  text-align: center;
+
+}
+table{
+  width: 550px;
+  height: auto;
+  margin:0 auto;
+  align: center;
+  text-align:left;
+    border: 3px;
+}
+footer{
+  background-color:#1a314d;
+  height: 50px;
+  color: white;
+  margin-top: 700px;
+  clear:both;
+  text-align: center;
+}

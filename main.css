@@ -1,58 +1,91 @@
-body{
-  background-color: #e8b5ce;
+ body{
+  background-image: url("rosebackground.png");
   font-family: arial;
   text-align: center;
     margin: 0;
+color:#1a314d ;
+    padding: 0;
 }
 header{
-  background-color: white;
+
     text-align: center;
+    color: #1a314d;
+
 }
 h1{
-  color: #e8b5ce;
   text-align: center;
     margin: 0;
-    padding: 0px 10px;
+    font-size: 50px;
+      font-family:cursive;
 }
 a{
-  color: #0098ff;
+
     margin: 0;
+    padding: 5px 5px;
 }
 p{
-  padding: 10px 10px 0px 0px;
-}
-nav ul{
-  margin: 0;
-}
-nav ul li{
-  background: #e8b5ce;
+  align:center;
+  text-align: center;
 
-  padding: 5px 5px 5px 5px;
+  color: #1a314d;
+
+}
+
+nav{
+  color: #1a314d;
+}
+nav ,ul, li{
+  margin: 0 auto;
+  padding: 0 auto;
+
+
+
+}
+hr{
+  color: #1a314d;
+}
+
+nav ul li{
+
   list-style-type: none;
   display: inline-block;
-  margin: 5px;
+  margin: 0 auto;
+padding: 0px
 
 }
-nav ul li a{
-  color: white;
 
-}
 table{
-  border: 1px solid #000;
+  border: 3px solid #000;
+  width: 550px;
+  height: auto;
 margin:0 auto;
 align: center;
 text-align:left;
 background-color: ="#0098ff";
+padding: 5px;
+
 }
 th{
-  border: 1px solid #000;
+  border: 2px solid #000;
   text-align: center;
-  margin-top: 0px;
+  margin: 0px;
+  padding: 5px;
 }
 td{
   border: 1px solid #000;
     text-align: left;
-  margin-top: 0px;
-  padding: 0 auto;
+  padding: 5px;
+  margin:0 auto;
 
+}
+
+
+
+footer{
+  background-color:#1a314d;
+  height: 50px;
+  color: white;
+  margin-top: 700px;
+  clear:both;
+  text-align: center;
 }
